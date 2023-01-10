@@ -1,6 +1,6 @@
 <h1 align="center">Vagas</h1>
 
-<p align="center">:microscope: Espaço para divulgação de vagas para front-enders.</p>
+<p align="center">:microscope: Espaço para divulgação de vagas de tecnologia</p>
 
 # Vagas
 
